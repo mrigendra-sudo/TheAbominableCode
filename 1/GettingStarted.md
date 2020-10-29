@@ -1,0 +1,2 @@
+# Getting Started
+Hope you are excited for what this round has to offer. Here's what you need to do. You are given a unique mongo connection url. You need to connect to the url. Examine and query the collections to find out the most relevant collection. Query the collection to get the link which contains the question(s) you need to debug. Once you have debugged the questions, you are required to copy paste the correct code in the file named "SUBMISSION.[EXTENSION]". 
