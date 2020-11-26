@@ -1,2 +1,4 @@
 # TheAbominableCode
-Repository for the Abominable code round for Open Source Drive 2020.
+Repository for the Abominable code round for OPEN COLLABORATION MEMBERSHIP TASK 
+
+#### Go to Gettting start to get started! ;)
